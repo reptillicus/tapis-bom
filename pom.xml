@@ -22,7 +22,7 @@
     </organization>
 
     <scm>
-        <connection>scm:git:git@github.com:tapis-project/tapis-bom.git</connection>
+        <connection>scm:git:git@github.com:reptillicus/tapis-bom.git</connection>
         <url>https://github.com/reptillicus/tapis-bom</url>
         <tag>HEAD</tag>
     </scm>
